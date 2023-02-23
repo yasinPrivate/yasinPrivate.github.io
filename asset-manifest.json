@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yasinPrivate.github.io/static/css/main.65a9fbcf.css",
+    "main.js": "/yasinPrivate.github.io/static/js/main.06ad713e.js",
+    "index.html": "/yasinPrivate.github.io/index.html",
+    "main.65a9fbcf.css.map": "/yasinPrivate.github.io/static/css/main.65a9fbcf.css.map",
+    "main.06ad713e.js.map": "/yasinPrivate.github.io/static/js/main.06ad713e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a9fbcf.css",
+    "static/js/main.06ad713e.js"
+  ]
+}
